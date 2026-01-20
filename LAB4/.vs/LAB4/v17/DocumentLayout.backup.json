@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDB5844-229E-42FE-8400-381D1B8780D0}|Bai1_Test\\Bai1_Test.csproj|c:\\users\\lth\\documents\\tester_bt\\lab4\\bai1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDB5844-229E-42FE-8400-381D1B8780D0}|Bai1_Test\\Bai1_Test.csproj|solutionrelative:bai1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90134989-0FAD-4119-AA25-37A60970039D}|LAB4\\LAB4.csproj|c:\\users\\lth\\documents\\tester_bt\\lab4\\lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90134989-0FAD-4119-AA25-37A60970039D}|LAB4\\LAB4.csproj|solutionrelative:lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90134989-0FAD-4119-AA25-37A60970039D}|LAB4\\LAB4.csproj|c:\\users\\lth\\documents\\tester_bt\\lab4\\lab4\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90134989-0FAD-4119-AA25-37A60970039D}|LAB4\\LAB4.csproj|solutionrelative:lab4\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\LAB4\\Bai2.cs",
+              "RelativeDocumentMoniker": "LAB4\\Bai2.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\LAB4\\Bai2.cs*",
+              "RelativeToolTip": "LAB4\\Bai2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:09:48.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\Bai1_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Bai1_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\Bai1_Test\\UnitTest1.cs",
+              "RelativeToolTip": "Bai1_Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:00:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\LAB4\\Bai1.cs",
+              "RelativeDocumentMoniker": "LAB4\\Bai1.cs",
+              "ToolTip": "C:\\Users\\LTH\\Documents\\Tester_BT\\LAB4\\LAB4\\Bai1.cs",
+              "RelativeToolTip": "LAB4\\Bai1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:58:25.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

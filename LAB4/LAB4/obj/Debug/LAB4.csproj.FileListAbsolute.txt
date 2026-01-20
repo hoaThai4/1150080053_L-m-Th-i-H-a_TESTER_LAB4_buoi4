@@ -1,0 +1,9 @@
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\bin\Debug\LAB4.exe
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\bin\Debug\LAB4.pdb
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.exe
+C:\Users\LTH\Documents\Tester_BT\LAB4\LAB4\obj\Debug\LAB4.pdb
